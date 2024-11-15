@@ -13,7 +13,7 @@ def print_banner():
     banner = f"""
 {Fore.CYAN}{Style.BRIGHT}╔══════════════════════════════════════════════╗
 ║          BlockMesh Network AutoBot           ║
-║     Github: https://t.me/Crypto_airdropHM     ║
+║     telegram: https://t.me/Crypto_airdropHM     ║
 ║      Welcome and do with your own risk!      ║
 ╚══════════════════════════════════════════════╝
 """
